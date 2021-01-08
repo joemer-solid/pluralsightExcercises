@@ -1,4 +1,10 @@
-SRP – Project Sample Overview - please open the file: SRP_FileStore.ReadMe.html
+SRP – Project Sample Overview - please open the file: Overview_Start.html once the project has been cloned.
+To open from Visual Studio:
+Right click on the file Overview_Start.html from Solution Explorer
+Select the "Open With" option
+Search for a browser application in the dialog box like "Google Chrome" and click the OK button
+The file will now open in the browser
+
 
     	This sample represents a new project that is NOT currently adhering to Single Responsiblity Principle
 
