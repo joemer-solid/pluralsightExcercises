@@ -1,10 +1,11 @@
-SRP – Project Sample Overview - please open the file: Overview_Start.html once the project has been cloned.
-To open from Visual Studio:
-Right click on the file Overview_Start.html from Solution Explorer
-Select the "Open With" option
-Search for a browser application in the dialog box like "Google Chrome" and click the OK button
-The file will now open in the browser
 
+SRP – Project Sample Overview 
+- please open the file: Overview_Start.html once the project has been cloned.
+To open from Visual Studio:
+1.	Right click on the file Overview_Start.html from Solution Explorer
+2.	Select the "Open With" option
+3.	Search for a browser application in the dialog box like "Google Chrome" and click the OK button
+4.	The file will now open in the browser
 
     	This sample represents a new project that is NOT currently adhering to Single Responsiblity Principle
 
@@ -16,7 +17,8 @@ The file will now open in the browser
 
 1.	To begin the exercise, determine how many reasons the SRPFileStore_Start class has to change.
 2.	Once this is done, refactor the code in the namespace: ‘Finish’ using the information below as a guide. 
-Start with the information under the sub heading Points of Consideration
+Start with the information under the sub heading Points of Consideration.
 Also: a “before” and “after” UML Class diagram is included to assist with the exercise. (SRP_Start_Finish.jpg in the “Finish” folder)
 3.	In the Test folder, create a test class and tests that exercise the refactored code named: SRPFileStore_Finish_Tests.cs or something similar.
+
 
